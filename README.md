@@ -1,8 +1,8 @@
-##Hello, my name is Marat.
+## Hello, my name is Marat.
 
 I aspire to become a frontend programmer, eager to embark on a journey of continuous learning and growth in the field. I am enthusiastic about embracing new technologies, honing my skills, and contributing to innovative projects. With a passion for frontend development, I am ready to tackle challenges head-on, collaborate with teams, and create exceptional user experiences. Looking forward to the exciting opportunities ahead!
 
-##My contacts
+## My contacts
 - **Email:** vsosnodube@mail.com
 - **Phone:** +89021067900
 - **GitHub:** [github.com/marat](https://github.com/marat)
