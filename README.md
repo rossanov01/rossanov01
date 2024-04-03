@@ -18,4 +18,4 @@
 - **Языки:** Русский (родной), Английский (чтение документации)
 - **Хобби:** Программирование, просмотр аниме, игра на пианино
   
-![logo](https://media.licdn.com/dms/image/D4D12AQF4tTmXfV0AKw/article-cover_image-shrink_720_1280/0/1668240317510?e=2147483647&v=beta&t=TSqA26xplXNZHpCXMxnPbtqmOIT2MFnuP5YGD6F3Zws)
+![logo](https://media3.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952onxpeco5wk93ng75zw6a1zm15ai31kmpw6lwdvjq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
