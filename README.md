@@ -18,4 +18,4 @@
 - **Языки:** Русский (родной), Английский (чтение документации)
 - **Хобби:** Программирование, просмотр аниме, игра на пианино
   
-![logo](https://www.cloudfrl.com/content/images/2023/12/IMG_5141.gif)
+![logo](https://media.licdn.com/dms/image/D4D12AQF4tTmXfV0AKw/article-cover_image-shrink_720_1280/0/1668240317510?e=2147483647&v=beta&t=TSqA26xplXNZHpCXMxnPbtqmOIT2MFnuP5YGD6F3Zws)
