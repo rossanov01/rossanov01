@@ -5,7 +5,7 @@ I aspire to become a frontend programmer, eager to embark on a journey of contin
 ## My contacts
 - **Email:** vsosnodube@mail.com
 - **Phone:** +89021067900
-- **GitHub:** [github.com/marat](https://github.com/marat)
+- **GitHub:** [github.com/rossanov01](https://github.com/rossanov01)
 
 ## Education
 - **Bachelor's Degree:** Information Technology, Russian State University named after A.N. Kosygin, 2021-2025
