@@ -14,7 +14,7 @@ I aspire to become a frontend programmer, eager to embark on a journey of contin
 - **Programming Languages:** JavaScript
 - **Frameworks and Libraries:** React, Redux, Material-UI
 - **Markup:** HTML, CSS, SASS, SCSS
-- **Tools:** Figma, Webpack
+- **Tools:** Figma
 - **Specialties:** Semantic Markup, Pixel Perfect, Cross-Browser Compatibility
 - **Server Development:** Knowledge of server-side programming
 
