@@ -4,7 +4,7 @@ I aspire to become a frontend programmer, eager to embark on a journey of contin
 
 ## My contacts
 - **Email:** vsosnodube@mail.com
-- **Phone:** +89021067900
+- **Phone:** +79021067900
 - **GitHub:** [github.com/rossanov01](https://github.com/rossanov01)
 
 ## Education
